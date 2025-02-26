@@ -3,7 +3,7 @@
 ## Overview
 During the first week of the new academic year in September 2024, I became aware of an e-learning application used by the campus I was on at the time. 
 
-I'll show you how, out of curiosity and much to my surprise, I was able to discover a remote account takeover without any user interaction, which led to an privilege escalation and database exfiltration of the Azure user database.
+I'll show you how, out of curiosity and much to my surprise, I was able to discover a remote account takeover without any user interaction, which led to an privilege escalation and exfiltration of the Azure user database.
 
 By simply looking at the requests exchanged between me and the server with burpsuite I was able to discover that I was receiving the `ConnectedUserIds` from the Websockets History.
 
