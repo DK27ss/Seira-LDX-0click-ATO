@@ -39,6 +39,8 @@ Using the query `/server/api/users/ldap/all` and defining a `display` `limit` of
 
 Finally, I could connect to any `Administrator` account, filtering by `privilege` / `last name` / `first name` and pivot to accounts `without` ever being `detected` in the connection `logs`, and without `any interaction` on the part of the `user`.
 
+![keys](https://github.com/user-attachments/assets/70b5748a-273c-4da0-b872-691996e65f94)
+
 Here's a quick debrief of my first 0click ATO in the wild, the flaw has now been fixed and all traffic is now `encrypted`. :)
 
 
