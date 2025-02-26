@@ -27,7 +27,7 @@ Why not now test with my `coach` `UserId`, assuming that he has more advantages 
 
 After performing an `privilege` `escalation` to an `Administrator` account, I initially observed that connection to the account was `instantaneous` and `totally` `transparent`.
 
-![nologs](https://github.com/user-attachments/assets/c27bd20d-79ec-45a4-ac99-c4a4eb67c577)
+![nologs](https://github.com/user-attachments/assets/b83d7d35-1d29-4c2c-b123-2788942fe67d)
 
 I then looked into how to obtain the full `UserId` and ended up with full access to the `Azure` `user` `database`.
 
