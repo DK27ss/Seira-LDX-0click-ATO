@@ -43,4 +43,4 @@ Finally, I could connect to any `Administrator` account, filtering by `privilege
 
 Here's a quick debrief of my first 0click ATO in the wild, the flaw has now been fixed and all traffic is now `encrypted`. :)
 
-
+Copyright (c) 2025, SHA2770
