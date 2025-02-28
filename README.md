@@ -1,4 +1,4 @@
-# Seira-LDX-Silent-0click-ATO
+# Seira-LDX-Silent-Authenticated-0click-ATO
 
 ## Overview
 During the first week of the new academic year in September 2024, I became aware of an e-learning application used by the campus I was on at the time. 
